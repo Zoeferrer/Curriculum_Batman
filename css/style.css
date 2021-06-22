@@ -1,0 +1,70 @@
+.imagenprincipal{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 147;
+}    
+main{
+
+    margin: 50px auto;
+    max-width: 1080px;
+}
+
+
+
+h1{
+    background-color: #C4C4C4;
+    color:#005677;
+
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    line-height: 38px;
+    text-align: center;
+
+}
+header{
+    background-color: #E6E6E6;
+}
+.titulo{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+
+    color:#005677;
+    text-align: center;
+    background-color: #C4C4C4;
+    font-size: 20px;
+    line-height: 28px;
+    
+    
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.letra_listas{
+    font-weight: bold;
+    font-style: italic;
+}
+section{
+    font-size: 15px;
+    line-height:23px;
+    font-style: normal;
+
+
+}
+.años{
+    font-weight: bold;
+}
+
+
+footer{
+    background-color: #005677;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
